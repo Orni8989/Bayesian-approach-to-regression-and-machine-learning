@@ -3,13 +3,13 @@ This project explores three different methods to perform regression on data usin
 
 ## Features
 
-# 1. Least Squares Regression 
+### 1. Least Squares Regression 
    Implements a regression model by minimizing the squared error. A custom class is created to fit and predict data, ensuring scalability and reusability.  
 
-# 2. Bayesian Linear Regression
+### 2. Bayesian Linear Regression
    Uses Bayesian principles with prior and posterior distributions. The prior model assumes a Gaussian distribution, enabling the computation of posterior distributions analytically.  
 
-# 3. Numerical Bayesian Regression with MCMC  
+### 3. Numerical Bayesian Regression with MCMC  
    Implements Bayesian regression using a Markov Chain Monte Carlo (MCMC) sampler to numerically estimate posterior distributions. Histograms are generated to represent these distributions visually.  
 ## Technologies and Tools
 
